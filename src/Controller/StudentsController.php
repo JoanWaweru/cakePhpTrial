@@ -12,6 +12,7 @@ class StudentsController extends AppController
 {
     /**
      * Index method
+     * 
      *
      * @return \Cake\Http\Response|null|void Renders view
      */
